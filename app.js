@@ -65,7 +65,7 @@ createApp({
 
 }
 
-  },
+},
 
   methods: {
     //funzioni bottoni
@@ -98,7 +98,3 @@ createApp({
     },
   }
 }).mount('#app')
-
-
-
-realised 
