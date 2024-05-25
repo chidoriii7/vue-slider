@@ -94,7 +94,13 @@ createApp({
         this.currentImage--
         
       }
-  
+      
     },
+
+    changeImg(indice){
+      this.currentImage = indice
+      console.log(indice)
+    }
+  
   }
 }).mount('#app')
